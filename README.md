@@ -1,11 +1,38 @@
 # Ironhack - Hall Of Fame
 
-Those are the people that achieved both technical and personal excelence at Ironhack. 
+Those are the people that achieved both technical and personal excellence at Ironhack. 
 Many thanks to all of them for their awesome work. Keep growing! 
 
 Marc Pomar.
 
-# Web development bootcamp
+
+# Data Analytics & Machine Learning bootcamp (2018,2019,2020)
+
+## Data Hackshow Winners
+* **October 2018:** Alberto García
+* **January 2019:** Luis Martínez Ruiz
+* **April 2019:** Yonatan Rodriguez
+* **June 2019:** Paco Anes
+* **August 2019:** Maurizio Martin
+* **October 2019:**  Blanca Alcala
+* **January 2020:**  (Pending...)
+
+## Data Madrid - Academic Team
+- Belen Linacero
+- Alberto García
+- Giorgio Grassini
+- Octavio Garcia Moreno
+- Yonatan Rodriguez
+- Noelia Carrión
+- Bego Echavarren
+- Franciso Martínez
+- Felipe Ferrero
+- Blanca Lluch
+- Amanda Gálvez
+- Clara Piniella
+- Jose Manuel Fernández (Ovi)
+  
+# Web development bootcamp (2017,2018,2019,2020)
 
 ## Web Hackshow Winners
 * **January 2017:** Carlos de Palacio
@@ -19,7 +46,6 @@ Marc Pomar.
 * **September 2018 (Part Time):** Ana Estrada
 
 ## Webdev Madrid - Academic Team
-- Marc Pomar
 - Alfonso Huéscar
 - Miguel Moracho
 - Andrei Fernandez
@@ -38,19 +64,3 @@ Marc Pomar.
 - Diego Méndez Peño
 - Nicolae Alexe (PT)
 - Camila Maya (PT)
-
-# Data Analytics & Machine Learning bootcamp
-
-## Data Hackshow Winners
-* **October 2018:** Alberto García
-* **January 2019:** Luis Martínez Ruiz
-* **March 2019:** Yonatan Rodriguez
-* **June 2019:** (Pending...)
-
-## Data Madrid - Academic Team
-- Belen Linacero
-- Alberto García
-- Giorgio Grassini
-- Octavio Garcia Moreno
-- Yonatan Rodriguez
-  
